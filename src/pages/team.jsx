@@ -11,6 +11,7 @@ import ryanImage from '@/images/people/ryan.jpg'
 import daveImage from '@/images/people/dave.jpg'
 import tomGoodmanImage from '@/images/people/tom-goodman.jpg'
 import jimmyImage from '@/images/people/jimmy.jpg'
+import danImage from '@/images/people/dan.jpg'
 
 const people = [
   {
@@ -30,6 +31,12 @@ const people = [
     role: 'Organiser',
     image: viniImage,
     linkedinUrl: 'https://www.linkedin.com/in/vinicius-pinheiro-porto/',
+  },
+  {
+    name: "Dan Clarke",
+    role: 'Organiser',
+    image: danImage,
+    linkedinUrl: 'https://www.linkedin.com/in/dan-j-clarke/',
   },
   {
     name: "Ryan Lee",
